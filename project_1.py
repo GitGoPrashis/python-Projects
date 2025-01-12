@@ -1,4 +1,4 @@
-# creating the first project of choosen question answers
+# here i do had created my first project of choosen question answers from the contest and we will the some amount of money
 questions =[
   ["A. what keyword is used to define a fuction in python ?", " def", "fun", "function", "define", 1],
   ["B. Which of the following is an immutable data type ?"," List", "Dictionary","Tuple ", "Set", 3],
